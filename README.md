@@ -17,4 +17,4 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ✨
 
 ## Online Classes 
-- [3D Illustration Course] (https://polygonrunway.com/courses/) 
+- [3D Illustration Course](https://polygonrunway.com/courses/) 
