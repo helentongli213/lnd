@@ -13,6 +13,8 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - User Friendly by Cliff Huang 
 - Algorithms of Oppression by Safiya Umoja Noble 
 - Dear Data by Stefanie Posavec 
+- The Culture Map by Erin Meyer
+- Crucial Conversations 
 - Technically Wrong by Sara Wachter-Boettcher ✨✨
 - Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ✨
 
