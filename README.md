@@ -21,3 +21,6 @@ List items with ✨'s next to them are things I've bought and used -- the number
 
 ## Online Classes 
 - [3D Illustration Course](https://polygonrunway.com/courses/) 
+
+## Other Lists
+- [Should Designers Code](https://github.com/github/product-design/blob/main/should-designers-code.md)
