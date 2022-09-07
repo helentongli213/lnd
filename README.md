@@ -6,7 +6,7 @@ List items with ✨'s next to them are things I've bought and used -- the number
 ## Books 
 - Pencil Me In by Christine Wodtke
 - The Design of Everyday Things by Don Norman
-- Validating Product Ideas by Tomer SHaron
+- Validating Product Ideas by Tomer Sharon
 - The Shape of Design by Frank Chimero
 - Mismatch by Kate Holmes 
 - User Friendly by Cliff Huang 
