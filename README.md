@@ -15,7 +15,7 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - The Culture Map by Erin Meyer
 - Crucial Conversations 
 - Design Justice by Sasha Costanza-Chock ✨✨✨✨✨
-- - Weapons of Math Destruction by Cathy O'Neill ✨✨✨✨
+- Weapons of Math Destruction by Cathy O'Neill ✨✨✨✨
 - Technically Wrong by Sara Wachter-Boettcher ✨✨
 - Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ✨
 
