@@ -14,6 +14,7 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - Dear Data by Stefanie Posavec 
 - The Culture Map by Erin Meyer
 - Crucial Conversations 
+- Brag Better by Meredith Fineman
 - Design Justice by Sasha Costanza-Chock ✨✨✨✨✨
 - Weapons of Math Destruction by Cathy O'Neill ✨✨✨✨
 - Technically Wrong by Sara Wachter-Boettcher ✨✨
