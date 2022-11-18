@@ -1,7 +1,7 @@
 # Learning & Development 
 I like learning. I like developing. Let's learn and develop together 🧠 
 
-List items with ✨'s next to them are things I've bought and used -- the number of sparkles corresponds with how much I'd be willing to recommend them to a friend (out of five) 
+List items with ✨'s next to them are things I've bought and used -- the number of stars corresponds with how much I'd be willing to recommend them to a friend (out of five) 
 
 ## Books 
 - Pencil Me In by Christine Wodtke
@@ -17,10 +17,13 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - Brag Better by Meredith Fineman
 - Radical Candor by Kim Scott
 - The Making of a Manager by Julie Zhuo
-- Design Justice by Sasha Costanza-Chock ✨✨✨✨✨
-- Weapons of Math Destruction by Cathy O'Neill ✨✨✨✨
-- Technically Wrong by Sara Wachter-Boettcher ✨✨
-- Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ✨
+- Solving Product Design Exercises by Artiom Dashinsky
+- Articulating Design Decisions by Tom Greeve
+- Swipe to Unlock by Neel Mehta, Parth Detroja, Aditya Agashe
+- Design Justice by Sasha Costanza-Chock ⭐⭐⭐⭐⭐
+- Weapons of Math Destruction by Cathy O'Neill ⭐⭐⭐⭐
+- Technically Wrong by Sara Wachter-Boettcher ⭐⭐
+- Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ⭐
 
 ## Online Classes 
 - [3D Illustration Course](https://polygonrunway.com/courses/) 
