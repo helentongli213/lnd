@@ -1,11 +1,12 @@
 # Learning & Development 
 I like learning. I like developing. Let's learn and develop together 🧠 
 
-List items with ✨'s next to them are things I've bought and used -- the number of stars corresponds with how much I'd be willing to recommend them to a friend (out of five) 
+List items with ⭐'s next to them are things I've bought and used -- the number of stars corresponds with how much I'd be willing to recommend them to a friend (out of five) 
+
+Items without stars haven't been consumed by me yet. 
 
 ## Books 
 - Pencil Me In by Christine Wodtke
-- The Design of Everyday Things by Don Norman
 - Validating Product Ideas by Tomer Sharon
 - The Shape of Design by Frank Chimero
 - Mismatch by Kate Holmes 
@@ -20,8 +21,11 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - Solving Product Design Exercises by Artiom Dashinsky
 - Articulating Design Decisions by Tom Greeve
 - Swipe to Unlock by Neel Mehta, Parth Detroja, Aditya Agashe
+- Inclusive Design Communities by Sameera Kapila
+- Design for Safety by Eva PenzeyMoog
 - Design Justice by Sasha Costanza-Chock ⭐⭐⭐⭐⭐
 - Weapons of Math Destruction by Cathy O'Neill ⭐⭐⭐⭐
+- The Design of Everyday Things by Don Norman ⭐⭐⭐⭐
 - Technically Wrong by Sara Wachter-Boettcher ⭐⭐
 - Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ⭐
 
@@ -30,6 +34,7 @@ List items with ✨'s next to them are things I've bought and used -- the number
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [UX Writing Course](https://uxcontent.com/)
 - [Google Technical Writing Courses](https://developers.google.com/tech-writing) 
+- [A Book Apart: Brief Books for People who Design, Write, and Code](https://abookapart.com/)
 
 ## Other Lists
 - [Should Designers Code](https://github.com/github/product-design/blob/main/should-designers-code.md)
