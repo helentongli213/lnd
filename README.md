@@ -23,6 +23,13 @@ Items without stars haven't been consumed by me yet.
 - Swipe to Unlock by Neel Mehta, Parth Detroja, Aditya Agashe
 - Inclusive Design Communities by Sameera Kapila
 - Design for Safety by Eva PenzeyMoog
+- Laws of UX: Using Psychology to Design Better Products & Services by Jon Yablonski
+- Content Everywhere: Strategy and Structure for Future-Ready Content by Sara Wachter-Boettcher
+- Orchestrating Experiences
+- Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value by Teresa Torres
+- Mapping Experiences: A Complete Guide to Customer Alignment Through Journeys, Blueprints, and Diagrams by Jim Kalbach
+- Value Proposition Design by Alexander Osterwalder
+- The Visual Display of Quantitative Information by Edward Tufte 
 - Design Justice by Sasha Costanza-Chock ⭐⭐⭐⭐⭐
 - Weapons of Math Destruction by Cathy O'Neill ⭐⭐⭐⭐
 - The Design of Everyday Things by Don Norman ⭐⭐⭐⭐
