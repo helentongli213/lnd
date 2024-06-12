@@ -9,13 +9,9 @@ Items without stars haven't been consumed by me yet.
 - Pencil Me In by Christine Wodtke
 - Validating Product Ideas by Tomer Sharon
 - The Shape of Design by Frank Chimero
-- Mismatch by Kate Holmes 
 - User Friendly by Cliff Huang 
-- Algorithms of Oppression by Safiya Umoja Noble 
 - Dear Data by Stefanie Posavec 
 - The Culture Map by Erin Meyer
-- Crucial Conversations 
-- Brag Better by Meredith Fineman
 - Radical Candor by Kim Scott
 - The Making of a Manager by Julie Zhuo
 - Solving Product Design Exercises by Artiom Dashinsky
@@ -29,10 +25,15 @@ Items without stars haven't been consumed by me yet.
 - Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value by Teresa Torres
 - Mapping Experiences: A Complete Guide to Customer Alignment Through Journeys, Blueprints, and Diagrams by Jim Kalbach
 - Value Proposition Design by Alexander Osterwalder
-- The Visual Display of Quantitative Information by Edward Tufte 
+- The Visual Display of Quantitative Information by Edward Tufte
+- Unmasking AI by Joy Buolamwini
+- Data Feminism by Catherine D'Ignazio and Lauren F. Klein
 - Design Justice by Sasha Costanza-Chock ⭐⭐⭐⭐⭐
 - Weapons of Math Destruction by Cathy O'Neill ⭐⭐⭐⭐
 - The Design of Everyday Things by Don Norman ⭐⭐⭐⭐
+- Algorithms of Oppression by Safiya Umoja Noble ⭐⭐⭐⭐
+- Brag Better by Meredith Fineman ⭐️⭐️⭐️
+- Mismatch by Kate Holmes ⭐️⭐️
 - Technically Wrong by Sara Wachter-Boettcher ⭐⭐
 - Quiet: The Power of Introverts in a World that Can't Stop Talking by Susan Cain ⭐
 
